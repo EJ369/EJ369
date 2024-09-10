@@ -1,11 +1,15 @@
 <!-- Introduction Section -->
-<h1 align="center">Ekal Jain</h1>
-<h2 align="center"><strong style="color: #3498db;">Mobile Developer</strong></h2>
+<!-- <h1 align="center">Ekal Jain</h1>
+<h2 align="center"><strong style="color: #3498db;">Mobile Developer</strong></h2> -->
+<p> <img src="https://github.com/EJ369/EJ369/blob/main/LinkedIn%20Cover.png?raw=true" width="1000px"</p>
 
 <p align="center"> 
     <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
     </a> 
+    <a href="https://dart.dev" target="_blank" rel="noreferrer">
+      <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
+      </a>
     <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
     </a> 
@@ -37,7 +41,7 @@
     I'm a passionate <strong>Mobile Developer</strong> focused on creating native and cross-platform apps that provide seamless user experiences. I have hands-on experience in building Android applications using <strong>Java</strong>, <strong>Kotlin</strong>, and cross-platform development using <strong>Flutter</strong>. My goal is to blend functionality with intuitive design.
 </p>
 <p>
-    Recently, I’ve been diving deeper into <strong>Firebase</strong> and <strong>Cloud Integration</strong> for mobile applications. I believe in continuous learning and always look for ways to evolve as a developer.
+    Recently, I've been diving deeper into <strong>Firebase</strong> and <strong>Cloud Integration</strong> for mobile applications. I believe in continuous learning and always look for ways to evolve as a developer.
 </p>
 
 <hr>
@@ -48,8 +52,8 @@
     <li><strong>Languages:</strong> Java, Kotlin, Dart (Flutter)</li>
     <li><strong>Frameworks:</strong> Android SDK, Flutter</li>
     <li><strong>Mobile Tools:</strong> Firebase, Google Cloud, SQLite, REST APIs</li>
-    <li><strong>Design:</strong> Figma for wireframing & prototyping</li>
-    <li><strong>Version Control & Tools:</strong> Git, Docker, VSCode, Android Studio</li>
+    <li><strong>Design:</strong> Figma and Canva for wireframing & prototyping</li>
+    <li><strong>Version Control & Tools:</strong> Git, Android Studio</li>
 </ul>
 
 <hr>
@@ -58,40 +62,58 @@
 <h2>Featured Projects</h2>
 
 <!-- Project 1 -->
-<h3>Studata : Student Data Management</h3>
-<img src="[Your Image URL for Project 1]" alt="Studata Screenshot" width="300px">
+<h3><font color="#3498db">Studata : Student Data Management</font></h3>
+<table>
+  <tr>
+    <td><img src="https://github.com/EJ369/EJ369/blob/main/2.png?raw=true" alt="Studata Screenshot 1" width="200px"></td>
+    <td><img src="https://github.com/EJ369/EJ369/blob/main/5.png?raw=true" alt="Studata Screenshot 2" width="200px"></td>
+    <td><img src="https://github.com/EJ369/EJ369/blob/main/9.png?raw=true" alt="Studata Screenshot 3" width="200px"></td>
+  </tr>
+</table>
 <p>
-    <em>Project Link</em><br>
-    An android mobile app to manage student data, built with java, Room DB, MVVM, LiveData. It includes features like analytics, reminders, and cloud-syncing with Firebase.
+    <em>https://play.google.com/store/apps/details?id=com.ejatic.studatafree</em><br><br>
+    An Android app to manage academic administrative data including students, fees, reminders, timetable, attendance etc. built with Java, Room DB, MVVM, LiveData. It includes features like analytics, reminders and cloud-syncing with Firebase.
 </p>
 <ul>
-    <li><strong>Tech Stack:</strong> Java, Firebase, Google Cloud, Room DB, Admob</li>
+    <li><strong><font color="#FF0000">Tech Stack:</font></strong> Java, Firebase, Google Cloud, Room DB, Admob</li>
 </ul>
 
 <hr>
 
 <!-- Project 2 -->
-<h3>GroupShare : Expense Splitter</h3>
-<img src="[Your Image URL for Project 2]" alt="GroupShare Screenshot" width="300px">
+<h3><font color="#3498db">GroupShare : Expense Splitter</font></h3>
+<table>
+  <tr>
+    <td><img src="https://github.com/EJ369/EJ369/blob/main/G2.png?raw=true" alt="Groupshare Screenshot 1" width="200px"></td>
+    <td><img src="https://github.com/EJ369/EJ369/blob/main/G3.png?raw=true" alt="Groupshare Screenshot 2" width="200px"></td>
+    <td><img src="https://github.com/EJ369/EJ369/blob/main/G6.png?raw=true" alt="Groupshare Screenshot 3" width="200px"></td>
+  </tr>
+</table>
 <p>
-    <em>Project Link</em><br>
-    A native Android app to manage and split expenses based on the user's transactions. It includes cloud syncing with Firebase and provides downloading transactions data.
+    <em>https://play.google.com/store/apps/details?id=com.ejatic.groupshare</em><br><br>
+    An Android app to manage and split expenses based on the user's transactions. Compiled with various features as voice commands, real time syncing, record tracking etc. It includes cloud syncing with Firebase and provides downloading transactions data.
 </p>
 <ul>
-    <li><strong>Tech Stack:</strong> Android SDK, Kotlin, Firebase, Room DB</li>
+    <li><strong><font color="#FF0000">Tech Stack:</font></strong> Android SDK, Kotlin, Firebase, Room DB</li>
 </ul>
 
 <hr>
 
 <!-- Project 3 -->
-<h3>Edvisor - AI Powered Career Counselling</h3>
-<img src="[Your Image URL for Project 3]" alt="Edvisor Screenshot" width="300px">
+<h3><font color="#3498db">Edvisor - AI Powered Career Counselling</font></h3>
+<table>
+  <tr>
+    <td><img src="https://github.com/EJ369/EJ369/blob/main/E3.png?raw=true" alt="Edvisor Screenshot 1" width="200px"></td>
+    <td><img src="https://github.com/EJ369/EJ369/blob/main/E4.png?raw=true" alt="Edvisor Screenshot 2" width="200px"></td>
+    <td><img src="https://github.com/EJ369/EJ369/blob/main/E9.png?raw=true" alt="Edvisor Screenshot 3" width="200px"></td>
+  </tr>
+</table>
 <p>
-    <em>Project Link</em><br>
-    A career counselling app that suggests stream and career recommendation based on user's preferences. It is built using AI and Kotlin.
+    <em>https://play.google.com/store/apps/details?id=com.ej.edvisor</em><br><br>
+    An AI powered career counselling app that suggests stream and career opportunities based on user's preferences. It is built using AI and Kotlin.
 </p>
 <ul>
-    <li><strong>Tech Stack:</strong> Kotlin, AI, Room DB, Python, Tensorflow Lite</li>
+    <li><strong><font color="#FF0000">Tech Stack:</font></strong> Kotlin, AI, Room DB, Python, Tensorflow Lite</li>
 </ul>
 
 <hr>
@@ -100,13 +122,18 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ej369&show_icons=true&locale=en&layout=compact" alt="ej369" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ej369&show_icons=true&locale=en" alt="ej369" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ej369&show_icons=true&locale=en" alt="ej369" /></p>
 
 <hr>
 
 <!-- Contact Section -->
-<h2>📬 Let's Connect</h2>
+<h2>Let's Connect</h2>
 <p>I'm always open to collaborating on exciting mobile projects! Reach out if you want to discuss mobile development, or just say hi:</p>
 <p align="left">
-<a href="https://linkedin.com/in/in/ekal-jain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/ekal-jain" height="30" width="40" /></a>
+    <a href="mailto:your.email@example.com" target="_blank" rel="noreferrer">
+        <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail Icon" width="40" height="40" />
+    </a>
+    <a href="https://linkedin.com/in/ekal-jain" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
+    </a>
 </p>
