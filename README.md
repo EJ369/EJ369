@@ -1,6 +1,9 @@
 <!-- Introduction Section -->
 <!-- <h1 align="center">Ekal Jain</h1>
 <h2 align="center"><strong style="color: #3498db;">Mobile Developer</strong></h2> -->
+<table border="0.5" width="100%" cellspacing="10" cellpadding="1">
+        <tr>
+            <td>
 <p> <img src="https://github.com/EJ369/EJ369/blob/main/LinkedIn%20Cover.png?raw=true" width="1000px"</p>
 
 <p align="center"> 
@@ -118,6 +121,62 @@
 
 <hr>
 
+<!-- Project 4 -->
+<h3><font color="#3498db">Real-time Weather Map</font></h3>
+<table>
+  <tr>
+    <td><img src="https://github.com/EJ369/WeatherMap/blob/master/WM%201.png?raw=true" alt="WeatherMap Screenshot 1" width="200px"></td>
+    <td><img src="https://github.com/EJ369/WeatherMap/blob/master/WM%202.png?raw=true" alt="WeatherMap Screenshot 2" width="200px"></td>
+    <td><img src="https://github.com/EJ369/WeatherMap/blob/master/WM%203.png?raw=true" alt="WeatherMap Screenshot 3" width="200px"></td>
+  </tr>
+</table>
+<p>
+    <em>Github Link - https://github.com/EJ369/WeatherMap</em><br><br>
+    Weather Map app is a real-time weather application that displays weather conditions for various locations on an interactive map.
+</p>
+<ul>
+    <li><strong><font color="#FF0000">Tech Stack:</font></strong> Flutter, API, Libraries</li>
+</ul>
+
+<hr>
+
+<!-- Project 4 -->
+<h3><font color="#3498db">Movies App</font></h3>
+<table>
+  <tr>
+    <td><img src="https://github.com/EJ369/MovieApp/blob/master/M%201.png?raw=true" alt="Movies App Screenshot 1" width="200px"></td>
+    <td><img src="https://github.com/EJ369/MovieApp/blob/master/M%202.png?raw=true" alt="Movies App Screenshot 2" width="200px"></td>
+  </tr>
+</table>
+<p>
+    <em>Github Link - https://github.com/EJ369/MovieApp</em><br><br>
+    Movies App helps you discover trending and popular movies with ease! Get personalized movie suggestions with key details like popularity ratings, vote count, language, plot summaries, and high-quality images.
+</p>
+<ul>
+    <li><strong><font color="#FF0000">Tech Stack:</font></strong> Kotlin, API, Libraries, Android SDK</li>
+</ul>
+
+<hr>
+
+<!-- Project 4 -->
+<h3><font color="#3498db">News App</font></h3>
+<table>
+  <tr>
+    <td><img src="https://github.com/EJ369/News-App/blob/master/NA%201.png?raw=true" alt="Edvisor Screenshot 1" width="200px"></td>
+    <td><img src="https://github.com/EJ369/News-App/blob/master/NA%202.png?raw=true" alt="Edvisor Screenshot 2" width="200px"></td>
+      <td><img src="https://github.com/EJ369/News-App/blob/master/NA%203.png?raw=true" alt="Edvisor Screenshot 2" width="200px"></td>
+  </tr>
+</table>
+<p>
+    <em>Github Link - https://github.com/EJ369/News-App</em><br><br>
+    Stay updated with the latest news every day using our app, featuring categorized news for easy browsing across various topics like politics, sports, entertainment, and more.
+</p>
+<ul>
+    <li><strong><font color="#FF0000">Tech Stack:</font></strong> Kotlin, API, Room DB, Android SDK</li>
+</ul>
+
+<hr>
+
 <h2>Stats</h2>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ej369&show_icons=true&locale=en&layout=compact" alt="ej369" /></p>
@@ -137,3 +196,6 @@
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
     </a>
 </p>
+</td>
+        </tr>
+    </table>
