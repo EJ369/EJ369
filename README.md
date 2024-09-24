@@ -44,7 +44,7 @@
     I'm a passionate <strong>Mobile Developer</strong> focused on creating native and cross-platform apps that provide seamless user experiences. I have hands-on experience in building Android applications using <strong>Java</strong>, <strong>Kotlin</strong>, and cross-platform development using <strong>Flutter</strong>. My goal is to blend functionality with intuitive design.
 </p>
 <p>
-    Recently, I've been diving deeper into <strong>Firebase</strong> and <strong>Cloud Integration</strong> for mobile applications. I believe in continuous learning and always look for ways to evolve as a developer.
+    Recently, I've been diving deeper into <strong>AI Integration</strong> and <strong>Machine Learning</strong> for mobile applications. I believe in continuous learning and always look for ways to evolve as a developer.
 </p>
 
 <hr>
@@ -57,6 +57,7 @@
     <li><strong>Mobile Tools:</strong> Firebase, Google Cloud, SQLite, REST APIs</li>
     <li><strong>Design:</strong> Figma and Canva for wireframing & prototyping</li>
     <li><strong>Version Control & Tools:</strong> Git, Android Studio</li>
+        <li><strong>AI tools:</strong> ChatGPT, Gemini</li>
 </ul>
 
 <hr>
@@ -116,7 +117,7 @@
     An AI powered career counselling app that suggests stream and career opportunities based on user's preferences. It is built using AI and Kotlin.
 </p>
 <ul>
-    <li><strong><font color="#FF0000">Tech Stack:</font></strong> Kotlin, AI, Room DB, Python, Tensorflow Lite</li>
+    <li><strong><font color="#FF0000">Tech Stack:</font></strong> Kotlin, Artificial Intelligence (AI), Room DB, Python, Tensorflow Lite, Gemini API</li>
 </ul>
 
 <hr>
@@ -187,9 +188,9 @@
 
 <!-- Contact Section -->
 <h2>Let's Connect</h2>
-<p>I'm always open to collaborating on exciting mobile projects! Reach out if you want to discuss mobile development, or just say hi:</p>
+<p>I'm always open to collaborating on exciting mobile projects! Reach out if you have any innovative idea or want to discuss mobile development:</p>
 <p align="left">
-    <a href="mailto:your.email@example.com" target="_blank" rel="noreferrer">
+    <a href="mailto:ekaljain.ej9@gmail.com" target="_blank" rel="noreferrer">
         <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail Icon" width="40" height="40" />
     </a>
     <a href="https://linkedin.com/in/ekal-jain" target="blank">
