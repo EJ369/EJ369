@@ -75,7 +75,7 @@
   </tr>
 </table>
 <p>
-    <em>https://play.google.com/store/apps/details?id=com.ejatic.studatafree</em><br><br>
+    <em>Download - https://play.google.com/store/apps/details?id=com.ejatic.studatafree</em><br><br>
     An Android app to manage academic administrative data including students, fees, reminders, timetable, attendance etc. built with Java, Room DB, MVVM, LiveData. It includes features like analytics, reminders and cloud-syncing with Firebase.
 </p>
 <ul>
@@ -94,7 +94,7 @@
   </tr>
 </table>
 <p>
-    <em>https://play.google.com/store/apps/details?id=com.ejatic.groupshare</em><br><br>
+    <em>Download - https://play.google.com/store/apps/details?id=com.ejatic.groupshare</em><br><br>
     An Android app to manage and split expenses based on the user's transactions. Compiled with various features as voice commands, real time syncing, record tracking etc. It includes cloud syncing with Firebase and provides downloading transactions data.
 </p>
 <ul>
@@ -113,7 +113,7 @@
   </tr>
 </table>
 <p>
-    <em>https://play.google.com/store/apps/details?id=com.ej.edvisor</em><br><br>
+    <em>Download - https://play.google.com/store/apps/details?id=com.ej.edvisor</em><br><br>
     An AI powered career counselling app that suggests stream and career opportunities based on user's preferences. It is built using AI and Kotlin.
 </p>
 <ul>
@@ -141,7 +141,7 @@
 
 <hr>
 
-<!-- Project 4 -->
+<!-- Project 5 -->
 <h3><font color="#3498db">Movies App</font></h3>
 <table>
   <tr>
@@ -159,13 +159,13 @@
 
 <hr>
 
-<!-- Project 4 -->
+<!-- Project 6 -->
 <h3><font color="#3498db">News App</font></h3>
 <table>
   <tr>
-    <td><img src="https://github.com/EJ369/News-App/blob/master/NA%201.png?raw=true" alt="Edvisor Screenshot 1" width="200px"></td>
-    <td><img src="https://github.com/EJ369/News-App/blob/master/NA%202.png?raw=true" alt="Edvisor Screenshot 2" width="200px"></td>
-      <td><img src="https://github.com/EJ369/News-App/blob/master/NA%203.png?raw=true" alt="Edvisor Screenshot 2" width="200px"></td>
+    <td><img src="https://github.com/EJ369/News-App/blob/master/NA%201.png?raw=true" alt="News App Screenshot 1" width="200px"></td>
+    <td><img src="https://github.com/EJ369/News-App/blob/master/NA%202.png?raw=true" alt="News App Screenshot 2" width="200px"></td>
+      <td><img src="https://github.com/EJ369/News-App/blob/master/NA%203.png?raw=true" alt="News App Screenshot 2" width="200px"></td>
   </tr>
 </table>
 <p>
@@ -174,6 +174,26 @@
 </p>
 <ul>
     <li><strong><font color="#FF0000">Tech Stack:</font></strong> Kotlin, API, Room DB, Android SDK</li>
+</ul>
+
+<hr>
+
+<!-- Project 7 -->
+<h3><font color="#3498db">Notify Anything</font></h3>
+<table>
+  <tr>
+    <td><img src="https://github.com/EJ369/EJ369/blob/main/NA2.png?raw=true" alt="NotifyAnything Screenshot 1" width="200px"></td>
+    <td><img src="https://github.com/EJ369/EJ369/blob/main/NA3.png?raw=true" alt="NotifyAnything Screenshot 2" width="200px"></td>
+      <td><img src="https://github.com/EJ369/EJ369/blob/main/NA4.png?raw=true" alt="NotifyAnything Screenshot 3" width="200px"></td>
+          <td><img src="https://github.com/EJ369/EJ369/blob/main/NA5.png?raw=true" alt="NotifyAnything Screenshot 4" width="200px"></td>
+  </tr>
+</table>
+<p>
+    <em>Download - https://play.google.com/store/apps/details?id=com.ejatic.notify_anything</em><br><br>
+    An app used to track offers, prices, stocks, updates, news, feeds and anything on any given site.
+</p>
+<ul>
+    <li><strong><font color="#FF0000">Tech Stack:</font></strong> Flutter, Dart, SDFlite, Material UI</li>
 </ul>
 
 <hr>
