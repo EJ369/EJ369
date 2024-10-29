@@ -193,7 +193,7 @@
     An app used to track offers, prices, stocks, updates, news, feeds and anything on any given site.
 </p>
 <ul>
-    <li><strong><font color="#FF0000">Tech Stack:</font></strong> Flutter, Dart, SDFlite, Material UI</li>
+    <li><strong><font color="#FF0000">Tech Stack:</font></strong> Flutter, Dart, SQFlite, Material UI</li>
 </ul>
 
 <hr>
