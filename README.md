@@ -179,13 +179,14 @@
 <hr>
 
 <!-- Project 7 -->
-<h3><font color="#3498db">Notify Anything</font></h3>
+<h3><font color="#3498db">WebWatcher</font></h3>
 <table>
   <tr>
-    <td><img src="https://github.com/EJ369/EJ369/blob/main/NA2.png?raw=true" alt="NotifyAnything Screenshot 1" width="200px"></td>
-    <td><img src="https://github.com/EJ369/EJ369/blob/main/NA3.png?raw=true" alt="NotifyAnything Screenshot 2" width="200px"></td>
-      <td><img src="https://github.com/EJ369/EJ369/blob/main/NA4.png?raw=true" alt="NotifyAnything Screenshot 3" width="200px"></td>
-          <td><img src="https://github.com/EJ369/EJ369/blob/main/NA5.png?raw=true" alt="NotifyAnything Screenshot 4" width="200px"></td>
+    <td><img src="https://github.com/EJ369/EJ369/blob/main/NA%203.png?raw=true" alt="WebWatcher Screenshot 1" width="200px"></td>
+    <td><img src="https://github.com/EJ369/EJ369/blob/main/NA%204.png?raw=true" alt="WebWatcher Screenshot 2" width="200px"></td>
+      <td><img src="https://github.com/EJ369/EJ369/blob/main/NA%205.png?raw=true" alt="WebWatcher Screenshot 3" width="200px"></td>
+          <td><img src="https://github.com/EJ369/EJ369/blob/main/NA%206.png?raw=true" alt="WebWatcher Screenshot 4" width="200px"></td>
+          <td><img src="https://github.com/EJ369/EJ369/blob/main/NA%207.png?raw=true" alt="WebWatcher Screenshot 4" width="200px"></td>
   </tr>
 </table>
 <p>
