@@ -126,9 +126,9 @@
 <h3><font color="#3498db">Real-time Weather Map</font></h3>
 <table>
   <tr>
-    <td><img src="https://github.com/EJ369/WeatherMap/blob/master/WM%201.png?raw=true" alt="WeatherMap Screenshot 1" width="200px"></td>
-    <td><img src="https://github.com/EJ369/WeatherMap/blob/master/WM%202.png?raw=true" alt="WeatherMap Screenshot 2" width="200px"></td>
-    <td><img src="https://github.com/EJ369/WeatherMap/blob/master/WM%203.png?raw=true" alt="WeatherMap Screenshot 3" width="200px"></td>
+    <td><img src="https://github.com/EJ369/EJ369/blob/main/WM%201.png?raw=true" alt="WeatherMap Screenshot 1" width="200px"></td>
+    <td><img src="https://github.com/EJ369/EJ369/blob/main/WM%202.png?raw=true" alt="WeatherMap Screenshot 2" width="200px"></td>
+    <td><img src="https://github.com/EJ369/EJ369/blob/main/WM%203.png?raw=true" alt="WeatherMap Screenshot 3" width="200px"></td>
   </tr>
 </table>
 <p>
