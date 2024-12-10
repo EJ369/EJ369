@@ -132,7 +132,7 @@
   </tr>
 </table>
 <p>
-    <em>Github Link - https://github.com/EJ369/WeatherMap</em><br><br>
+    <em>Download - https://play.google.com/store/apps/details?id=com.ejatic.weather_map</em><br><br>
     Weather Map app is a real-time weather application that displays weather conditions for various locations on an interactive map.
 </p>
 <ul>
