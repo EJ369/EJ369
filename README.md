@@ -4,7 +4,7 @@
 <table border="0.5" width="100%" cellspacing="10" cellpadding="1">
         <tr>
             <td>
-<p> <img src="https://github.com/EJ369/EJ369/blob/main/LinkedIn%20Cover.png?raw=true" width="1000px"</p>
+<p> <img src="https://github.com/EJ369/EJ369/blob/main/LinkedIn%20Cover%20New.png?raw=true" width="1000px"</p>
 
 <p align="center"> 
     <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
